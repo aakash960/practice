@@ -1,1 +1,1 @@
-#Hello Aakash lets learn about git and github uses
+# Hello Aakash lets learn about git and github uses
